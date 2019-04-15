@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/korean-learning/precache-manifest.55e2fcdba31fb374f0add6e31107b996.js"
+  "/korean-learning/precache-manifest.6228958f832372ceaf306117030e61a6.js"
 );
 
 workbox.clientsClaim();
