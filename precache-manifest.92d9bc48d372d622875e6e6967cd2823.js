@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/korean-learning/static/js/runtime~main.f0570e49.js"
   },
   {
-    "revision": "a80430294821c1347931",
-    "url": "/korean-learning/static/js/main.99ccd38d.chunk.js"
+    "revision": "f7fd748abebae76abe61",
+    "url": "/korean-learning/static/js/main.dbb5dc1c.chunk.js"
   },
   {
     "revision": "9d3dd289c0e193bd9676",
     "url": "/korean-learning/static/js/2.fdfc0d62.chunk.js"
   },
   {
-    "revision": "a80430294821c1347931",
+    "revision": "f7fd748abebae76abe61",
     "url": "/korean-learning/static/css/main.8b2eb5eb.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/korean-learning/static/css/2.e5f5df1a.chunk.css"
   },
   {
-    "revision": "7e9c6f76b2655a5b86725e4531b33abd",
+    "revision": "8d5d81448effb1edc2e41b2e0216df70",
     "url": "/korean-learning/index.html"
   }
 ];
